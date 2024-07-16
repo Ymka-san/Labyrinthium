@@ -1,2 +1,2 @@
 # Labyrinthium
-Перегляньте мій ([сайт](http://polytechnic.poltava.ua)).
+Перегляньте мій ([сайт](https://ymka-san.github.io/Development-of-a-multi-platform-game-desktop-version-/)).
